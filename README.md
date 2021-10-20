@@ -1,3 +1,0 @@
-# MyUserProfile 
-
-Cloning is fun
